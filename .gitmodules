@@ -1,69 +1,69 @@
 [submodule "docs"]
   path = docs-accepted
-  url = https://github.com/php-fig/fig-standards/tree/master/accepted
+  url = https://github.com/php-fig/fig-standards
 
 
 [submodule "container"]
   path = container
-  url = https://github.com/php-fig/container/tree/master/src
+  url = https://github.com/php-fig/container
 
 [submodule "http-message"]
   path = http/message
-  url = https://github.com/php-fig/http-message/tree/master/src
+  url = https://github.com/php-fig/http-message
 
 [submodule "http-client"]
   path = http/client
-  url = https://github.com/php-fig/http-client/tree/master/src
+  url = https://github.com/php-fig/http-client
 
 [submodule "http-server"]
   path = http/server-handler
-  url = https://github.com/php-fig/http-server-handler/tree/master/src
+  url = https://github.com/php-fig/http-server-handler
 
 [submodule "http-server"]
   path = http/server-middleware
-  url = https://github.com/php-fig/http-server-middleware/tree/master/src
+  url = https://github.com/php-fig/http-server-middleware
 
 [submodule "http-factory"]
   path = http/factory
-  url = https://github.com/php-fig/http-factory/tree/master/src
+  url = https://github.com/php-fig/http-factory
 
 [submodule "link"]
   path = link
-  url = https://github.com/php-fig/link/tree/master/src
+  url = https://github.com/php-fig/link
 
 [submodule "events"]
   path = event-dispatcher
-  url = https://github.com/php-fig/event-dispatcher/tree/master/src
+  url = https://github.com/php-fig/event-dispatcher
 
 [submodule "caching"]
   path = simple-cache
-  url = https://github.com/php-fig/simple-cache/tree/master/src
+  url = https://github.com/php-fig/simple-cache
 
 [submodule "caching"]
   path = cache
-  url = https://github.com/php-fig/cache/tree/master/src
+  url = https://github.com/php-fig/cache
 
 [submodule "logging"]
   path = log
-  url = https://github.com/php-fig/log/tree/master/Psr/Log
+  url = https://github.com/php-fig/log
 
 
 [submodule "link-util"]
   path = utils/link
-  url = https://github.com/php-fig/link-util/tree/master/src
+  url = https://github.com/php-fig/link-util
 
 [submodule "http-message-util"]
   path = utils/http-message
-  url = https://github.com/php-fig/http-message-util/tree/master/src
+  url = https://github.com/php-fig/http-message-util
 
 [submodule "http-factory-util"]
   path = utils/http-factory
-  url = https://github.com/php-fig/http-factory-util/tree/master
+  url = https://github.com/php-fig/http-factory-util
 
 [submodule "event-dispatcher-util"]
   path = utils/event-dispatcher
-  url = https://github.com/php-fig/event-dispatcher-util/tree/master/src
+  url = https://github.com/php-fig/event-dispatcher-util
 
 [submodule "simplecache-util"]
   path = utils/simple-cache
-  url = https://github.com/php-fig/simplecache-util/tree/master
+  url = https://github.com/php-fig/simplecache-util
